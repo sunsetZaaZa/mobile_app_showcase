@@ -1,6 +1,5 @@
 # mobile_app_showcase - gif recording
 ![Demo](https://github.com/sunsetZaaZa/mobile_app_showcase/blob/main/cross_platform_ios_android_sdk.gif)
-message or email: [linkedin](https://www.linkedin.com/in/vincent-cuccia-68a350265/)
 
 * Import and Export tasks are completed on isolates. Status of task is relayed by a sequence of messages that come one after another. 
 * Navigate about the application while export and import tasks are being ran. 
